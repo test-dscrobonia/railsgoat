@@ -4,4 +4,4 @@ steps:
 - command: ls
   plugins:
     - peaudecastor/boost-security-scanner#v0.1.0:
-      api_token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiYWNjb3VudCIsImFjY291bnQiOiJjNTU2NTUxNi04ZGNhLTRmNGMtYTJmNC1mMGNkYjFiZjgzNzMiLCJzc28iOm51bGwsImlhdCI6MTYxNTU3NjQ2MH0.ZNmDgXVgcunEQO-jBfsaKG5BrtNbOrfmLh7aMYWFa44'
+        api_token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiYWNjb3VudCIsImFjY291bnQiOiJjNTU2NTUxNi04ZGNhLTRmNGMtYTJmNC1mMGNkYjFiZjgzNzMiLCJzc28iOm51bGwsImlhdCI6MTYxNTU3NjQ2MH0.ZNmDgXVgcunEQO-jBfsaKG5BrtNbOrfmLh7aMYWFa44'
